@@ -1,0 +1,6 @@
+*.gif
+*.pgn
+.ipynb_checkpoints/
+data/
+*.zip
+__pycache__/
